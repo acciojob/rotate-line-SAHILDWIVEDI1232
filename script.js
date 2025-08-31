@@ -4,7 +4,7 @@ const line=document.getElementById('line');
 let angle=0;
 					set Interval(()=>{
 														  angle=+2;
-										let.style.transform=`rotate(${angle}deg)`;},20);
+let.style.transform=` translate(-50%, -50%) rotate(${angle}deg)`;},20);
 });
 																									  
 										
