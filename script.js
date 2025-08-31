@@ -1,5 +1,5 @@
 //your JS code here. If required.
-document.addEventListener("DOMLoadContent",function(){;
+document.addEventListener("DOMContentLoaded",function(){;
 const line=document.getElementById('line');
 let angle=0;
 					set Interval(()=>{
